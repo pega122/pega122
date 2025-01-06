@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sahid Idrishi! 👋</h1>
+<h1 align="center">Hi, I'm Sahid ! 👋</h1>
 
 <p align="center">
   <a href="mailto:pega122@example.com">📧 Email:pegasisprime133@icloud.com</a> •
