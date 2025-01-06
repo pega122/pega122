@@ -1,9 +1,7 @@
-<h1 align="center">Hi, I'm pega122! 👋</h1>
+<h1 align="center">Hi, I'm Sahid Idrishi! 👋</h1>
 
 <p align="center">
-  <a href="mailto:pega122@example.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/pega122">🔗 LinkedIn</a> •
-  <a href="https://twitter.com/pega122">🐦 Twitter</a>
+  <a href="mailto:pega122@example.com">📧 Email:pegasisprime133@icloud.com</a> •
 </p>
 
 ---
@@ -28,9 +26,8 @@
 
 ### 🌟 Projects
 
-- **[Project Name](link-to-project):** Brief description of the project.
-- **[Project Name](link-to-project):** Brief description of the project.
-- **[Project Name](link-to-project):** Brief description of the project.
+- **[face-detection](https://github.com/nasiridrishi/face-detection.git):** Face Detection and using Filters using p4.js and ml5.js.
+- **[DailyTaskMenu](https://github.com/pega122/DailyTaskMenu---A-Basic-Spigot-Plugin.git):** A Basic Daily Task Menu Plugin for Minecraft made using Spigot.
 
 ---
 
